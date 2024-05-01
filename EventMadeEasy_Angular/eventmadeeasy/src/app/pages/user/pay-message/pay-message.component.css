@@ -1,0 +1,27 @@
+/* Add this CSS code in a separate stylesheet file */
+
+.center {
+    margin-left: 20%;
+    background-color: #a52a2a; /* Brown background color */
+    max-width: 50%;
+    margin-top: 10%;
+    border-radius: 3%;
+    padding-bottom: 5px;
+    color: #f3ef0d; /* Yellow text color */
+}
+
+.container {
+    position: fixed;
+}
+
+.btn {
+    background-color: #ff00c8; /* Pink button color */
+    color: white;
+    font-weight: bold;
+}
+
+.btn2 {
+    background-color: #91ff00; /* Light green button color */
+    color: white;
+    font-weight: bold;
+}

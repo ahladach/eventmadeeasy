@@ -1,0 +1,28 @@
+.bread {
+    margin-top: 75px;
+}
+
+.container {
+    background-color: #f0f0f0; /* Light grey */
+    max-width: 80%;
+    color: black;
+}
+
+.container:hover {
+    background-color: #d9d9d9; /* Slightly darker grey on hover */
+}
+
+.head {
+    background-color: #9966cc; /* Medium purple */
+}
+
+.body {
+    background-color: #dcd0eb; /* Light lavender */
+    color: black;
+}
+
+.delNoti {
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', serif; /* Times New Roman font */
+}

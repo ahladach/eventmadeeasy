@@ -1,0 +1,35 @@
+/* Add this CSS code in a separate stylesheet file */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.container {
+    background-color: #680938; /* Light purple background color */
+    max-width: 80%;
+    border-radius: 5%;
+    color: #eedf0b; /* Yellow text color */
+    padding: 5px;
+}
+
+.btn {
+    background-color: #7fff7f; /* Light green button color */
+}
+
+.container:hover {
+    background-color: #9520a5; /* Darker purple on hover */
+}
+
+.del {
+    background-color: #dc143c; /* Crimson red button color */
+    color: white;
+}
+
+.can {
+    background-color: #120a88; /* Dark blue button color */
+    color: #f5f5f3; /* Light gray text color */
+}

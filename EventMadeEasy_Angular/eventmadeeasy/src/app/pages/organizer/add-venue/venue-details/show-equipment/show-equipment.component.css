@@ -1,0 +1,42 @@
+/* Use Times New Roman font */
+body {
+    font-family: 'Times New Roman', serif;
+  }
+  
+  .table {
+    max-width: 90%;
+    text-align: center;
+    margin: auto;
+    background-color: #c7c7c7; /* Light gray color */
+    color: #333; /* Dark gray color */
+    border-color: #f0f0f0; /* Light gray color */
+    border-width: 2px;
+  }
+  
+  .btn {
+    background-color: #ff8c00; /* Dark orange color */
+    color: white;
+    padding-left: 10px;
+  }
+  
+  .taba1 {
+    text-align: center;
+    background-color: #0bb121; /* Light green color */
+    color: white;
+    font-weight: bold;
+  }
+  
+  .taba2 {
+    text-align: center;
+    background-color: #aaa708; /* Dark yellow color */
+    color: white;
+    font-weight: bold;
+  }
+  
+  .taba3 {
+    text-align: center;
+    background-color: #a70737; /* Dark red color */
+    color: white;
+    font-weight: bold;
+  }
+  

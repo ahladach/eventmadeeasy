@@ -1,0 +1,49 @@
+/* Add this CSS code in a separate stylesheet file */
+
+.light-background {
+  background-color: #f0f0f0; /* Light gray background */
+}
+
+.card {
+  width: 50%;
+  margin: auto;
+}
+
+.profile {
+  height: 100px;
+  width: 100px;
+  align-items: center;
+}
+
+.container-fluid {
+  background-color: #f0f0f0; /* Light gray background */
+  padding-top: 5%;
+  padding-bottom: 20px;
+}
+
+.white {
+  background-color: #ffffff; /* White background */
+  max-width: 60%;
+  margin: auto;
+  margin-top: 20%;
+  position: inherit;
+}
+
+.btn {
+  background-color: #673ab7; /* Deep purple color */
+  font-weight: bold;
+  font-size: large;
+  color: white;
+}
+
+.btn2 {
+  background-color: #512da8; /* Deep purple color */
+  font-weight: bold;
+  font-size: large;
+  color: white;
+}
+
+/* Use Times New Roman font */
+body {
+  font-family: 'Times New Roman', serif;
+}

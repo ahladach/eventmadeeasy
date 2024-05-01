@@ -1,0 +1,62 @@
+/* Add this CSS code in a separate stylesheet file */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.white {
+    color: white;
+}
+
+.page {
+    background-color: #443358; /* Dark purple color */
+    max-width: 80%;
+    margin: auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5%;
+}
+
+.attribute {
+    margin: auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    align-items: center;
+    max-width: 70%;
+    margin-top: 3px;
+    margin-top: 3px;
+    background-color: rgba(9, 1, 19, 0.8);
+    color: yellow;
+}
+
+.page2 {
+    background-color: #2e3313; /* Dark olive color */
+    max-width: 80%;
+    margin: auto;
+    margin-top: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5%;
+    color: white;
+}
+
+.align {
+    text-align: left;
+}
+
+.btn {
+    background-color: #c00a7a; /* Dark pink color */
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    margin: auto;
+}
+
+.butdiv {
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
+.bread {
+    margin-top: 75px;
+}

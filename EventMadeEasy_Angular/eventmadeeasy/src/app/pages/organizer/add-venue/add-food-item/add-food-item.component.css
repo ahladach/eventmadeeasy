@@ -1,0 +1,52 @@
+.table{
+    max-width: 90%;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(40, 5, 56);
+    color: white;
+}
+.btn{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+}/* Use Times New Roman font */
+body {
+    font-family: 'Times New Roman', serif;
+  }
+  
+  .table {
+    max-width: 90%;
+    text-align: center;
+    margin: auto;
+    background-color: #c7c7c7; /* Light gray color */
+    color: #333; /* Dark gray color */
+  }
+  
+  .btn {
+    text-align: center;
+    background-color: #800080; /* Purple color */
+    color: white;
+    font-weight: bold;
+  }
+  
+  .tc2 {
+    color: white;
+    width: fit-content;
+  }
+  
+  .formCon {
+    color: white;
+    width: 100%;
+    border-color: #f0f0f0; /* Light gray color */
+  }
+  
+.tc2{
+    color: white;
+    width: fit-content;
+}
+.formCon{
+    color: white;
+   width: 100%;
+   border-color: azure;
+}

@@ -1,0 +1,53 @@
+.bread {
+    margin-top: 75px;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 3%;
+    max-width: 80%;
+}
+
+.row2 {
+    margin-top: 30px;
+}
+
+.obj:hover {
+    transform: translateY(20px);
+}
+
+.card1 {
+    background-color: #b2dfdb; /* Light color for card1 */
+}
+
+.card2 {
+    background-color: #ffccbc; /* Light color for card2 */
+}
+
+.card3 {
+    background-color: #c5cae9; /* Light color for card3 */
+}
+
+.card4 {
+    background-color: #ffe082; /* Light color for card4 */
+}
+
+.obj {
+    height: 200px;
+    width: 350px;
+    text-align: center;
+    transition: 0.5s;
+    padding-top: 40px;
+}
+
+/* Added styles for h3 and h1 elements inside the cards */
+.obj h3,
+.obj h1 {
+    color: #424242; /* Dark text color */
+}

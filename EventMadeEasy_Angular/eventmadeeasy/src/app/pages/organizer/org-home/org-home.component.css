@@ -1,0 +1,48 @@
+.bread {
+    margin-top: 75px;
+}
+
+* {
+    font-family: 'Times New Roman', serif;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 3%;
+    max-width: 80%;
+}
+
+.row2 {
+    margin-top: 30px;
+}
+
+.obj:hover {
+    transform: translateY(20px);
+}
+
+.card1 {
+    background: #f9f9b0; /* Light yellow */
+}
+
+.card2 {
+    background: #c7c7c7; /* Light grey */
+}
+
+.card3 {
+    background: #f0b0f0; /* Light purple */
+}
+
+.card4 {
+    background: #f9d994; /* Light orange */
+}
+
+.obj {
+    height: 200px;
+    width: 350px;
+    text-align: center;
+    transition: 0.5s;
+    padding-top: 40px;
+    color: #000; /* Black color for text */
+}

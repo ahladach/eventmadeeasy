@@ -1,0 +1,22 @@
+/* Add this CSS code in a separate stylesheet file */
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.table {
+    border: 1px solid #dee2e6;
+}
+
+.table-light th, .table-light td {
+    background-color: #f8f9fa;
+}
+
+.btn-2 {
+    background-color: darkmagenta;
+    color: white;
+}

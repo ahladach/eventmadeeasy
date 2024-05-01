@@ -1,0 +1,38 @@
+/* Add this CSS code in a separate stylesheet file */
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.container {
+    background-color: rgb(220, 220, 220); /* Light color */
+    max-width: 80%;
+    color: rgb(0, 0, 0); /* Black text */
+    padding: 5px;
+}
+
+.delNot {
+    color: black; /* Black text */
+    text-decoration: none;
+}
+
+.container:hover {
+    background-color: rgb(192, 192, 192); /* Slightly darker on hover */
+}
+
+.head {
+    background-color: rgb(0, 0, 255); /* Blue */
+}
+
+.body {
+    background-color: rgb(175, 150, 199);
+    color: black;
+}
+
+.col {
+    text-align: center;
+}

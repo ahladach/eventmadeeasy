@@ -1,0 +1,51 @@
+/* Add this CSS code in a separate stylesheet file */
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 3%;
+    max-width: 80%;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.row2 {
+    margin-top: 30px;
+    max-width: 50%;
+    margin-left: 20%;
+}
+
+.obj:hover {
+    transform: translateY(20px);
+}
+
+.card1 {
+    background: rgba(91, 235, 66, 0.8);
+}
+
+.card2 {
+    background: rgba(54, 120, 241, 0.8);
+}
+
+.card3 {
+    background: rgba(229, 66, 235, 0.8);
+}
+
+.card4 {
+    background: rgba(228, 113, 37, 0.8);
+}
+
+.obj {
+    height: 200px;
+    width: 350px;
+    text-align: center;
+    transition: 0.5s;
+    padding-top: 40px;
+}

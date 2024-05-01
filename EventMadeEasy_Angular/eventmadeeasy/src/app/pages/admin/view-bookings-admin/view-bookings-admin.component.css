@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.container {
+    background-color: #f0f0f0;
+    max-width: 80%;
+    border-radius: 5px;
+    color: #333;
+    padding: 5px;
+}
+
+.btn {
+    background-color: #7fff00; /* chartreuse */
+}
+
+.container:hover {
+    background-color: #a7119f; /* rgb(167, 17, 159) */
+}

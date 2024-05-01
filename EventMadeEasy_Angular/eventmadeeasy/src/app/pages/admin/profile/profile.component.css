@@ -1,0 +1,63 @@
+.container {
+    padding-top: 4%;
+    margin: auto;
+    max-width: 70%;
+    font-family: 'Times New Roman', Times, serif; /* Times New Roman font */
+}
+
+.body {
+    border-radius: 2%;
+    margin-bottom: 5px;
+}
+
+.yellow {
+    background-color: #FFFFE0; /* Light yellow color */
+    padding: 2px;
+}
+
+.blue {
+    background-color: #0B0B3F;
+    color: #FFFFE0; /* Light yellow color */
+}
+
+.violet {
+    background-color: #0B0B3F;
+    padding: 5px;
+}
+
+.row {
+    margin: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.head {
+    border-radius: 50%;
+    background-color: #0B0B3F;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    padding: 2px;
+}
+
+.headY {
+    background-color: #FFFFE0; /* Light yellow color */
+    padding: 2px;
+    margin: auto;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+
+.headB {
+    background-color: #0B0B3F;
+    border-radius: 50%;
+    margin: auto;
+    height: 85px;
+    width: 85px;
+    padding: 2px;
+}
+
+.times-new-roman-font {
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,28 @@
+.container-fluid {
+  position: fixed;
+  z-index: 1;
+}
+
+.mainContent {
+  margin-top: 3em;
+}
+
+.navv {
+  z-index: 2;
+}
+
+/* Custom Styles */
+.navbar-custom {
+  background-color: #3498db; /* Set your desired navbar background color */
+  color: #ffffff; /* Set your desired navbar text color */
+}
+
+.sidebar-custom {
+  background-color: #2ecc71; /* Set your desired sidebar background color */
+  color: #ffffff; /* Set your desired sidebar text color */
+}
+
+.content-custom {
+  background-color: #ecf0f1; /* Set your desired main content background color */
+  color: #2c3e50; /* Set your desired main content text color */
+}

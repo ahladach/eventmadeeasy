@@ -1,0 +1,21 @@
+.navbar {
+    background: #FFD700; /* Yellow color */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: rgb(0, 0, 0); /* Black color */
+}
+
+.cust {
+    text-decoration: none;
+    color: rgb(0, 0, 0); /* Black color */
+}
+
+.show{
+    padding-right: 30px;
+}
+.but:hover{
+	color: #25e41e;
+    
+}

@@ -1,0 +1,30 @@
+.heading {
+    background-color: #F0F0F0; /* Light gray background color */
+    color: #000; /* Black text color */
+    border-radius: 10%;
+    width: 70%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif; /* Times New Roman font */
+}
+
+.row {
+    background-color: #F5F5F5; /* Light gray background color */
+    width: 70%;
+    margin: auto;
+    border-radius: 5%;
+    font-size: larger;
+    color: #000; /* Black text color */
+}
+
+.rowt {
+    background-color: #0A000A;
+    width: 70%;
+    margin: auto;
+    border-radius: 5%;
+    font-size: larger;
+    color: #FFF; /* White text color */
+}
+
+.times-new-roman-font {
+    font-family: 'Times New Roman', Times, serif;
+}

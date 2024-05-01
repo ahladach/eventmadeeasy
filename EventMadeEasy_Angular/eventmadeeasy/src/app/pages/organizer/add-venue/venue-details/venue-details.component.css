@@ -1,0 +1,58 @@
+/* Use Times New Roman font */
+body {
+    font-family: 'Times New Roman', serif;
+  }
+  
+  .bread {
+    margin-top: 75px;
+  }
+  
+  .table {
+    max-width: 90%;
+    text-align: center;
+    margin: auto;
+    background-color: #f0f0f0; /* Light gray color */
+    color: #333; /* Dark gray color */
+  }
+  
+  .btn {
+    text-align: center;
+    background-color: #83490a; /* Dark orange color */
+    color: white;
+    font-weight: bold;
+  }
+  
+  .tc2 {
+    color: white;
+    width: fit-content;
+  }
+  
+  .formCon {
+    color: white;
+    width: 100%;
+    border-color: azure;
+  }
+  
+  .tabs {
+    text-align: center;
+    margin: auto;
+  }
+  
+  .tab1,
+  .tab2,
+  .tab3 {
+    padding: 6px;
+    background-color: #c00; /* Dark red color */
+    border: none;
+    border-radius: 10%;
+    color: white;
+  }
+  
+  .tab2 {
+    margin-left: 22%;
+  }
+  
+  .tab3 {
+    margin-left: 20%;
+  }
+  

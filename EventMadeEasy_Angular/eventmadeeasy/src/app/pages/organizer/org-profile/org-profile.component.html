@@ -1,0 +1,50 @@
+<div class="bread">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a routerLink="/organizer" routerLinkActive="router-link-active">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Profile</li>
+        </ol>
+    </nav>
+</div>
+<div class="container">
+    <h3 class="text-center" style="font-family: 'Times New Roman', serif;">Profile</h3>
+
+    <div class="head">
+        <div class="headY">
+            <div class="headB"></div>
+        </div>
+    </div>
+
+    <div class="lightYellow body mb-2">
+        <div class="lightBlue body">
+            <div class="row darkBlue column">
+                <div class="col-4">ID</div>
+                <div class="col-8">{{member.memberId}}</div>
+            </div>
+            <div class="line"></div>
+
+            <div class="row darkBlue column">
+                <div class="col-4">Role</div>
+                <div class="col-8">{{member.role}}</div>
+            </div>
+            <div class="line"></div>
+
+            <div class="row darkBlue column">
+                <div class="col-4">Name</div>
+                <div class="col-8">{{member.firstName}} {{member.lastName}}</div>
+            </div>
+            <div class="line"></div>
+
+            <div class="row darkBlue column">
+                <div class="col-4">Phone Number</div>
+                <div class="col-8">{{member.phoneNumber}}</div>
+            </div>
+            <div class="line"></div>
+
+            <div class="row darkBlue column">
+                <div class="col-4">Email</div>
+                <div class="col-8">{{member.email}}</div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,29 @@
+/* Use Times New Roman font */
+body {
+    font-family: 'Times New Roman', serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.container {
+    background-color: rgb(216, 191, 216); /* Light purple color */
+    max-width: 80%;
+    color: rgb(0, 0, 0); /* Black text color */
+    padding: 5px;
+}
+
+.btn {
+    background-color: rgb(107, 142, 35); /* Olive Green color */
+    color: white; /* White text color */
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: rgb(0, 128, 0); /* Dark Green color on hover */
+}
+
+.container:hover {
+    background-color: rgb(128, 0, 128); /* Purple color on hover */
+}

@@ -1,0 +1,15 @@
+.navbar {
+    background:#FFD700; /* Yellow color */
+}
+
+.navbar-brand {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0); /* Black color */
+}
+
+.cust {
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0); /* Black color */
+}

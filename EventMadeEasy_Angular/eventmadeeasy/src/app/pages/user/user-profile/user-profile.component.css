@@ -1,0 +1,80 @@
+/* Add this CSS code in a separate stylesheet file */
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.container {
+    margin: auto;
+    max-width: 70%;
+}
+
+.body {
+    border-radius: 2%;
+    margin-bottom: 5px;
+}
+
+.yellow {
+    background-color: lightyellow;
+    padding: 2px;
+}
+
+.blue {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.violet {
+    background-color: lavender;
+    padding: 5px;
+}
+
+.row {
+    margin: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.column {
+    text-align: center;
+    margin: auto;
+    font-size: large;
+}
+
+.line {
+    background-color: white;
+    height: 2px;
+    max-width: 85%;
+    margin: auto;
+}
+
+.head {
+    border-radius: 50%;
+    background-color: lavender;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    padding: 2px;
+}
+
+.headY {
+    background-color: lightyellow;
+    padding: 2px;
+    margin: auto;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+
+.headB {
+    background-color: lightblue;
+    border-radius: 50%;
+    margin: auto;
+    height: 85px;
+    width: 85px;
+    padding: 2px;
+}

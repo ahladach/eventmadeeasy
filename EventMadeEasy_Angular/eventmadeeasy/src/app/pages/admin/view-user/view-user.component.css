@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.container {
+    padding-top: 4%;
+    margin: auto;
+    max-width: 70%;
+}
+
+.body {
+    border-radius: 2%;
+}
+
+.yellow {
+    background-color: #ffffcc; /* light yellow */
+    padding: 2px;
+}
+
+.blue {
+    background-color: #0b0b3f; /* dark blue */
+    color: #ffffcc; /* light yellow */
+}
+
+.violet {
+    background-color: #0b0b3f; /* dark blue */
+    padding: 3px;
+}
+
+.row {
+    margin: auto;
+}
+
+.btn {
+    background-color: #ff8c00; /* darkorange */
+}
+
+.column {
+    text-align: center;
+    margin: auto;
+    font-size: large;
+}

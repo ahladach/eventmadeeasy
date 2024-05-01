@@ -1,0 +1,49 @@
+/* Use Times New Roman font */
+body {
+    font-family: 'Times New Roman', serif;
+}
+
+.bread {
+    margin-top: 75px;
+}
+
+.heading {
+    background-color: lightblue; /* Light blue color */
+    color: white;
+    border-radius: 10%;
+    width: 90%;
+    margin: auto;
+}
+
+.row {
+    background-color: #d31e50; /* Dark pink color */
+    width: 80%;
+    margin: auto;
+    border-radius: 5%;
+    color: yellow;
+}
+
+.row:hover {
+    background-color: #571b4c; /* Darker pink on hover */
+}
+
+.tab1 {
+    padding: 6px;
+    background-color: #3c2957; /* Dark purple color */
+    border: none;
+    border-radius: 10%;
+    color: white;
+}
+
+.tab1:hover {
+    background-color: #7b4c96; /* Lighter purple on hover */
+}
+
+.tab2 {
+    padding: 6px;
+    background-color: #d91e18; /* Dark red color */
+    border: none;
+    border-radius: 10%;
+    color: white;
+    margin-left: 22%;
+}

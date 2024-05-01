@@ -1,0 +1,55 @@
+/* Add this CSS code in a separate stylesheet file */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .bread {
+    margin-top: 75px;
+  }
+  
+  .red {
+    margin: auto;
+    background-color: #ff9999; /* Light red color */
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 10px;
+  }
+  
+  .yellow {
+    background-color: #ffffcc; /* Light yellow color */
+    padding: 2px;
+  }
+  
+  .container {
+    padding-top: 5%;
+    max-width: 60%;
+    text-align: center;
+  }
+  
+  .yellow2 {
+    background-color: #ffffcc; /* Light yellow color */
+    padding: 2px;
+    max-width: 40%;
+    margin: auto;
+  }
+  
+  .black {
+    margin-top: 10px;
+    background-color: #000; /* Black color */
+    color: #ffffcc; /* Light yellow color */
+  }
+  
+  .green {
+    background-color: #99ff99; /* Light green color */
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    background-color: #ff7f50; /* Coral color */
+    font-weight: bold;
+  }
+  
